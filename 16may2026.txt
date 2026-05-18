@@ -21,7 +21,7 @@ CREATE TABLE ECE (
 );
 
 INSERT INTO ECE (student_id, student_name, student_marks) VALUES
-('24BCY10065', 'Pratyush Verma', '87/100'),
+('24BCE10068', 'Pratyush Verma', '87/100'),
 ('24BCE10023', 'Arjun Sharma', '79/100'),
 ('24BCE10047', 'Priya Iyer', '91/100'),
 ('24BCY10112', 'Rohan Mehta', '82/100'),
@@ -34,7 +34,7 @@ CREATE TABLE MECH (
 );
 
 INSERT INTO MECH (student_id, student_name, student_marks) VALUES
-('24BCY10065', 'Pratyush Verma', '95/100'),
+('24BCY10060', 'Sara Verma', '95/100'),
 ('24BCE10023', 'Arjun Sharma', '83/100'),
 ('24BCE10047', 'Priya Iyer', '89/100'),
 ('24BCY10112', 'Rohan Mehta', '71/100'),
