@@ -1,6 +1,6 @@
 show collections
 Employee                    
-db.Employee.insert({name:'Pratyusht', department:'CSE'})
+db.Employee.insert({name:'Pratyush', department:'CSE'})
 {
   acknowledged: true,
   insertedIds: {
